@@ -2,7 +2,9 @@ import React from 'react'
 
 export const index = () => {
   return (
-    <div>index</div>
+    <>
+        HeroBanner
+    </>
   )
 }
-export default index
+export default Home
